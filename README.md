@@ -40,7 +40,7 @@
 * [Network service - Login Brute Force + Wordlist attacks](#Login-Brute-Force-+-Wordlist-attacks)
 * [Command & Control Frameworks](#Command-&-Control-Frameworks)
 * [Wifi Tools](#Wifi-Tools)
-* [Raspberri PI Exploitation](#Raspberri-PI-Exploitation)
+* [Raspberry PI Exploitation](#Raspberry-PI-Exploitation)
 * [Social Engeneering](#Social-Engeneering)
 * [Wordlists / Wordlist generators](#Wordlists-/-Wordlist-generators)
 * [Obfuscation](#Obfuscation)
@@ -1727,7 +1727,7 @@ https://github.com/chrisk44/Hijacker
 
 https://github.com/samyk/slipstream - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
 
-# Raspberri PI Exploitation
+# Raspberry PI Exploitation
 
 https://github.com/secgroundzero/warberry
 
@@ -2206,7 +2206,7 @@ MSF:
 * exploit/linux/redis/redis_replication_cmd_exec
 
 Windows Targets - Webshell upload
-```
+```console
 redis-cli -h targethost -p targetport
 config set dir C:\inetpub\wwwroot\
 config set dbfilename shell.aspx
@@ -2445,7 +2445,7 @@ https://github.com/google/tsunami-security-scanner
 26. [EDR - A Closer Look At Protect Services]([https://www.infosec.tirol/edr-a-closer-look-at-protected-services/](https://www.infosec.tirol/edr-a-closer-look-at-protected-services/ "https://www.infosec.tirol/edr-a-closer-look-at-protected-services/")) 
 27. [FindETWProviderImage]([https://github.com/matterpreter/FindETWProviderImage](https://github.com/matterpreter/FindETWProviderImage "https://github.com/matterpreter/FindETWProviderImage")) 
 28. [ETW Bypasses]([https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/disabling-patching-telemetry/etw-bypasses](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/disabling-patching-telemetry/etw-bypasses "https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/disabling-patching-telemetry/etw-bypasses")) 
-29. [Another method of bypassing ETW]([https://modexp.wordpress.com/2020/04/08/red-teams-etw/)](https://modexp.wordpress.com/2020/04/08/red-teams-etw/)](https://modexp.wordpress.com/2020/04/08/red-teams-etw/)](https://modexp.wordpress.com/2020/04/08/red-teams-etw/) "https://modexp.wordpress.com/2020/04/08/red-teams-etw/)](https://modexp.wordpress.com/2020/04/08/red-teams-etw/)") 
+29. [Another method of bypassing ETW][(https://modexp.wordpress.com/2020/04/08/red-teams-etw/)]
 30. [Hiding Your .NET - ETW]([https://blog.xpnsec.com/hiding-your-dotnet-etw/](https://blog.xpnsec.com/hiding-your-dotnet-etw/ "https://blog.xpnsec.com/hiding-your-dotnet-etw/"))
     
 31. [Ninja UUID Runner]([https://github.com/boku7/Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner "https://github.com/boku7/Ninja_UUID_Runner")) 
@@ -2488,7 +2488,7 @@ https://github.com/google/tsunami-security-scanner
 
 # Azure Active Directory
 
-Original Source:[Swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
+Original Source : [Swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
 
 ## PreReq Requirements and free training
 
