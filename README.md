@@ -274,7 +274,7 @@ https://github.com/dirkjanm/PKINITtools - Tools for Kerberos PKINIT and relaying
 
 https://github.com/juliourena/SharpNoPSExec - Get file less command execution for lateral movement.
 
-# Post Exploitation
+# POST Exploitation
 
 https://github.com/mubix/post-exploitation
 
