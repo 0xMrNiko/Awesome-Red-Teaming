@@ -956,6 +956,7 @@ https://github.com/byt3bl33d3r/CrackMapExec
 
 https://github.com/Cn33liz/p0wnedShell
 
+https://github.com/ASCIT31/Dark-Moon - Open-source autonomous AI penetration testing platform and MCP host orchestrating 80+ offensive tools
 https://github.com/archerysec/archerysec
 
 https://github.com/vulnersCom/nmap-vulners
