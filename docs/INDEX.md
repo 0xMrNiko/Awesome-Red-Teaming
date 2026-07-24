@@ -6,28 +6,28 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 
 ## Quick Start
 
-- 🚀 [Methodology](resources/methodology.md)
-- 🧠 [AI Red Teaming](resources/ai-red-teaming.md)
-- 🧬 [Fuzzing](resources/fuzzing.md)
-- 🕸️ [Repository Graph Map](graphs/repo-map.md)
+- [Methodology](resources/methodology.md)
+- [AI Red Teaming](resources/ai-red-teaming.md)
+- [Fuzzing](resources/fuzzing.md)
+- [Repository Graph Map](graphs/repo-map.md)
 
 ---
 
-## 🚀 Start Here
+## Start Here
 
-- 🚀 [Red Teaming Methodology](resources/methodology.md)
-- 🧠 [AI Red Teaming](resources/ai-red-teaming.md)
-- 🧬 [Fuzzing](resources/fuzzing.md)
-- 🕸️ [Repository Graph Map](graphs/repo-map.md)
+- [Red Teaming Methodology](resources/methodology.md)
+- [AI Red Teaming](resources/ai-red-teaming.md)
+- [Fuzzing](resources/fuzzing.md)
+- [Repository Graph Map](graphs/repo-map.md)
 
-## 🪪 Identity & Active Directory
+## Identity & Active Directory
 
 - [Windows Active Directory Pentest](topics/windows-active-directory-pentest.md)
 - [Active Directory Audit and exploit tools](topics/active-directory-audit-and-exploit-tools.md)
 - [AD Lab Environment](topics/ad-lab-environment.md)
 - [Persistence on windows](topics/persistence-on-windows.md)
 
-## 🚪 Movement & Post Exploitation
+## Movement & Post Exploitation
 
 - [Lateral Movement](topics/lateral-movement.md)
 - [POST Exploitation](topics/post-exploitation.md)
@@ -35,7 +35,7 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [Exfiltration](topics/exfiltration.md)
 - [Wrapper for various tools](topics/wrapper-for-various-tools.md)
 
-## 🕸️ Web, API & Services
+## Web, API & Services
 
 - [Web Application Pentest](topics/web-application-pentest.md)
 - [Framework Discovery](topics/framework-discovery.md)
@@ -49,14 +49,14 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [Swagger File API Attack](topics/swagger-file-api-attack.md)
 - [Specific Service Scanning / Exploitation](topics/specific-service-scanning-exploitation.md)
 
-## 🚀 Privilege Escalation
+## Privilege Escalation
 
 - [Windows Privilege Escalation / Audit](topics/windows-privilege-escalation-audit.md)
 - [Windows Privilege Abuse (Privilege Escalation)](topics/windows-privilege-abuse-privilege-escalation.md)
 - [Linux Privilege Escalation / Audit](topics/linux-privilege-escalation-audit.md)
 - [T3 Enumeration](topics/t3-enumeration.md)
 
-## 🧨 Payloads, Evasion & C2
+## Payloads, Evasion & C2
 
 - [Payload Generation / AV-Evasion / Malware Creation](topics/payload-generation-av-evasion-malware-creation.md)
 - [Shellcode Injection](topics/shellcode-injection.md)
@@ -68,14 +68,14 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [Cobalt Strike Stuff](topics/cobalt-strike-stuff.md)
 - [Red Team infrastructure setup](topics/red-team-infrastructure-setup.md)
 
-## ☁️ Cloud
+## Cloud
 
 - [Azure Red Team Master and Cheat Sheets](topics/azure-red-team-master-and-cheat-sheets.md)
 - [Azure Cloud Tools](topics/azure-cloud-tools.md)
 - [Cloud attack tools](topics/cloud-attack-tools.md)
 - [Docker Exploitation](topics/docker-exploitation.md)
 
-## 🔎 Recon, Network & Wireless
+## Recon, Network & Wireless
 
 - [External Penetration Testing](topics/external-penetration-testing.md)
 - [Network Attacks](topics/network-attacks.md)
@@ -86,7 +86,7 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [NAT Slipstreaming](topics/nat-slipstreaming.md)
 - [Network access control bypass](topics/network-access-control-bypass.md)
 
-## 🧪 Reverse Engineering & Research
+## Reverse Engineering & Research
 
 - [Reverse Engineering / decompiler](topics/reverse-engineering-decompiler.md)
 - [Source Code / Binary Analysis](topics/source-code-binary-analysis.md)
@@ -96,7 +96,7 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [Forensics](topics/forensics.md)
 - [Red-Team SIEM](topics/red-team-siem.md)
 
-## 🏭 Platforms & Targets
+## Platforms & Targets
 
 - [Industrial Control Systems](topics/industrial-control-systems.md)
 - [Jenkins](topics/jenkins.md)
@@ -117,7 +117,7 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [PHP Webshells](topics/php-webshells.md)
 - [JSP WebShells](topics/jsp-webshells.md)
 
-## 📚 Labs, Lists & Communities
+## Labs, Lists & Communities
 
 - [Defender Guides / Tools / Incident Response / Blue Team](topics/defender-guides-tools-incident-response-blue-team.md)
 - [Wordlists / Wordlist generators](topics/wordlists-wordlist-generators.md)
@@ -138,7 +138,7 @@ Fast navigation by topic. Pick the area you need and jump directly into the reso
 - [Go](topics/go.md)
 - [Nim](topics/nim.md)
 
-## 🗂️ More Resources
+## More Resources
 
 - [Bypass SPF/DKIM/DMARC](topics/bypass-spf-dkim-dmarc.md)
 - [MondoDB Redis Couchdb Exploitation](topics/mondodb-redis-couchdb-exploitation.md)
