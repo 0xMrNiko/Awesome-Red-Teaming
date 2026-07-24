@@ -1,0 +1,619 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1150" width="1800" height="1150" role="img" aria-labelledby="title desc">
+<title id="title">Awesome Red Teaming repository graph</title>
+<desc id="desc">Obsidian-style graph linking README, index, resources, graph map, and topic files.</desc>
+<defs>
+<radialGradient id="bg" cx="50%" cy="48%" r="70%"><stop offset="0%" stop-color="#111827"/><stop offset="58%" stop-color="#060b12"/><stop offset="100%" stop-color="#020617"/></radialGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2.1" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1800" height="1150" fill="url(#bg)"/>
+<g opacity="0.18" stroke="#1e293b" stroke-width="1">
+<line x1="70" y1="0" x2="70" y2="1150"/>
+<line x1="140" y1="0" x2="140" y2="1150"/>
+<line x1="210" y1="0" x2="210" y2="1150"/>
+<line x1="280" y1="0" x2="280" y2="1150"/>
+<line x1="350" y1="0" x2="350" y2="1150"/>
+<line x1="420" y1="0" x2="420" y2="1150"/>
+<line x1="490" y1="0" x2="490" y2="1150"/>
+<line x1="560" y1="0" x2="560" y2="1150"/>
+<line x1="630" y1="0" x2="630" y2="1150"/>
+<line x1="700" y1="0" x2="700" y2="1150"/>
+<line x1="770" y1="0" x2="770" y2="1150"/>
+<line x1="840" y1="0" x2="840" y2="1150"/>
+<line x1="910" y1="0" x2="910" y2="1150"/>
+<line x1="980" y1="0" x2="980" y2="1150"/>
+<line x1="1050" y1="0" x2="1050" y2="1150"/>
+<line x1="1120" y1="0" x2="1120" y2="1150"/>
+<line x1="1190" y1="0" x2="1190" y2="1150"/>
+<line x1="1260" y1="0" x2="1260" y2="1150"/>
+<line x1="1330" y1="0" x2="1330" y2="1150"/>
+<line x1="1400" y1="0" x2="1400" y2="1150"/>
+<line x1="1470" y1="0" x2="1470" y2="1150"/>
+<line x1="1540" y1="0" x2="1540" y2="1150"/>
+<line x1="1610" y1="0" x2="1610" y2="1150"/>
+<line x1="1680" y1="0" x2="1680" y2="1150"/>
+<line x1="1750" y1="0" x2="1750" y2="1150"/>
+<line x1="0" y1="70" x2="1800" y2="70"/>
+<line x1="0" y1="140" x2="1800" y2="140"/>
+<line x1="0" y1="210" x2="1800" y2="210"/>
+<line x1="0" y1="280" x2="1800" y2="280"/>
+<line x1="0" y1="350" x2="1800" y2="350"/>
+<line x1="0" y1="420" x2="1800" y2="420"/>
+<line x1="0" y1="490" x2="1800" y2="490"/>
+<line x1="0" y1="560" x2="1800" y2="560"/>
+<line x1="0" y1="630" x2="1800" y2="630"/>
+<line x1="0" y1="700" x2="1800" y2="700"/>
+<line x1="0" y1="770" x2="1800" y2="770"/>
+<line x1="0" y1="840" x2="1800" y2="840"/>
+<line x1="0" y1="910" x2="1800" y2="910"/>
+<line x1="0" y1="980" x2="1800" y2="980"/>
+<line x1="0" y1="1050" x2="1800" y2="1050"/>
+<line x1="0" y1="1120" x2="1800" y2="1120"/>
+</g>
+<circle cx="900.0" cy="575.0" r="520" fill="none" stroke="#0ea5e9" stroke-opacity="0.09" stroke-width="2"/>
+<circle cx="900.0" cy="575.0" r="365" fill="none" stroke="#a855f7" stroke-opacity="0.10" stroke-width="1.5"/>
+<g fill="none">
+<line x1="900.0" y1="575.0" x2="900.0" y2="430.0" stroke="#67e8f9" stroke-width="1.9" stroke-opacity="0.78"/>
+<line x1="900.0" y1="430.0" x2="900.0" y2="305.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="1035.0" y2="341.2" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="1133.8" y2="440.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="1170.0" y2="575.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="1133.8" y2="710.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="1035.0" y2="808.8" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="900.0" y2="845.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="765.0" y2="808.8" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="666.2" y2="710.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="630.0" y2="575.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="666.2" y2="440.0" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="430.0" x2="765.0" y2="341.2" stroke="#64748b" stroke-width="1.15" stroke-opacity="0.36"/>
+<line x1="900.0" y1="305.0" x2="789.5" y2="123.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="305.0" x2="860.1" y2="77.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="305.0" x2="942.6" y2="43.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="305.0" x2="1034.8" y2="24.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="341.2" x2="1030.1" y2="128.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="341.2" x2="1114.2" y2="124.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1212.6" y2="230.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1248.7" y2="218.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1286.1" y2="207.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1342.8" y2="433.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1324.7" y2="199.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1380.4" y2="440.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="710.0" x2="1346.4" y2="705.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="710.0" x2="1350.7" y2="789.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1418.1" y2="449.8" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1244.3" y2="887.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="845.0" x2="992.4" y2="1030.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1455.6" y2="462.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="710.0" x2="1338.8" y2="877.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="801.4" y2="1029.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="756.8" y2="1053.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="587.4" y2="919.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1259.3" y2="279.8" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="710.0" x2="1309.6" y2="967.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="708.0" y2="1072.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1358.8" y2="499.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="630.0" y1="575.0" x2="453.1" y2="703.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="445.6" y2="476.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1238.3" y2="941.8" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="542.3" y2="922.9" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="425.9" y2="419.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="495.7" y2="922.3" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="447.8" y2="917.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1296.9" y2="272.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="413.4" y2="357.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="409.0" y2="291.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1394.9" y2="511.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1430.8" y2="526.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1466.2" y2="544.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1364.9" y2="566.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1398.9" y2="584.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="630.0" y1="575.0" x2="405.9" y2="644.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1432.2" y2="604.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1335.4" y2="267.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="341.2" x2="578.4" y2="239.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="655.4" y2="1086.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1464.6" y2="626.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1374.8" y2="265.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="845.0" x2="900.0" y2="1074.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1225.3" y2="997.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1205.0" y2="1053.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1114.4" y2="987.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1090.1" y2="1036.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1298.4" y2="335.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="667.5" y2="977.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1336.6" y2="333.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1375.5" y2="334.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="617.8" y2="986.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="341.2" x2="1202.5" y2="136.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1361.2" y2="634.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1392.3" y2="656.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1414.8" y2="337.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="630.0" y1="575.0" x2="367.0" y2="575.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="630.0" y1="575.0" x2="338.5" y2="495.9" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1329.0" y2="395.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="565.4" y2="989.9" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="523.4" y2="302.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1422.3" y2="681.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1367.1" y2="399.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="512.5" y2="832.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="528.2" y2="242.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1451.1" y2="708.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1405.4" y2="405.8" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="467.9" y2="824.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="845.0" x2="794.1" y2="1097.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="511.0" y2="987.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1443.9" y2="414.7" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="440.0" x2="541.7" y2="180.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="422.8" y2="812.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1347.7" y2="700.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="377.7" y2="795.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="341.2" x2="616.8" y2="164.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="808.8" x2="555.7" y2="887.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1350.5" y2="459.9" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="461.2" y2="729.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="419.8" y2="710.8" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="666.2" y1="710.0" x2="379.1" y2="688.0" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1058.6" y2="1083.9" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="341.2" x2="1292.1" y2="165.4" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="341.2" x2="671.2" y2="93.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="765.0" y1="341.2" x2="741.3" y2="30.6" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1035.0" y1="808.8" x2="1020.2" y2="1129.1" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1133.8" y1="440.0" x2="1387.7" y2="469.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="630.0" y1="575.0" x2="453.1" y2="446.5" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="1170.0" y1="575.0" x2="1375.2" y2="727.2" stroke="#475569" stroke-width="0.78" stroke-opacity="0.28"/>
+<line x1="900.0" y1="575.0" x2="789.5" y2="123.3" stroke="#22d3ee" stroke-width="1.0" stroke-opacity="0.28"/>
+<line x1="900.0" y1="575.0" x2="860.1" y2="77.6" stroke="#22d3ee" stroke-width="1.0" stroke-opacity="0.28"/>
+<line x1="900.0" y1="575.0" x2="942.6" y2="43.7" stroke="#22d3ee" stroke-width="1.0" stroke-opacity="0.28"/>
+<line x1="900.0" y1="575.0" x2="1034.8" y2="24.3" stroke="#22d3ee" stroke-width="1.0" stroke-opacity="0.28"/>
+</g>
+<g filter="url(#glow)">
+<circle cx="900.0" cy="575.0" r="25" fill="#f8fafc" fill-opacity="0.92" stroke="#38bdf8" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="900.0" cy="430.0" r="17" fill="#e0f2fe" fill-opacity="0.92" stroke="#22d3ee" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="900.0" cy="305.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1035.0" cy="341.2" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1133.8" cy="440.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1170.0" cy="575.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1133.8" cy="710.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1035.0" cy="808.8" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="900.0" cy="845.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="765.0" cy="808.8" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="666.2" cy="710.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="630.0" cy="575.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="666.2" cy="440.0" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="765.0" cy="341.2" r="14" fill="#fef3c7" fill-opacity="0.92" stroke="#f59e0b" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="789.5" cy="123.3" r="9" fill="#d9f99d" fill-opacity="0.92" stroke="#84cc16" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="860.1" cy="77.6" r="9" fill="#d9f99d" fill-opacity="0.92" stroke="#84cc16" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="942.6" cy="43.7" r="9" fill="#d9f99d" fill-opacity="0.92" stroke="#84cc16" stroke-width="2.2"/>
+</g>
+<g filter="url(#soft)">
+<circle cx="1034.8" cy="24.3" r="9" fill="#f5d0fe" fill-opacity="0.92" stroke="#d946ef" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1030.1" cy="128.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1114.2" cy="124.3" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1202.5" cy="136.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1292.1" cy="165.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1212.6" cy="230.7" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1248.7" cy="218.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1286.1" cy="207.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1324.7" cy="199.3" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1259.3" cy="279.8" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1296.9" cy="272.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1335.4" cy="267.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1374.8" cy="265.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1298.4" cy="335.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1336.6" cy="333.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1375.5" cy="334.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1414.8" cy="337.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1329.0" cy="395.7" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1367.1" cy="399.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1405.4" cy="405.8" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1443.9" cy="414.7" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1350.5" cy="459.9" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1387.7" cy="469.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1342.8" cy="433.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1380.4" cy="440.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1418.1" cy="449.8" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1455.6" cy="462.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1358.8" cy="499.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1394.9" cy="511.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1430.8" cy="526.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1466.2" cy="544.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1364.9" cy="566.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1398.9" cy="584.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1432.2" cy="604.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1464.6" cy="626.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1361.2" cy="634.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1392.3" cy="656.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1422.3" cy="681.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1451.1" cy="708.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1347.7" cy="700.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1375.2" cy="727.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1346.4" cy="705.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1350.7" cy="789.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1338.8" cy="877.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1309.6" cy="967.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1244.3" cy="887.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1238.3" cy="941.8" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1225.3" cy="997.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1205.0" cy="1053.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1114.4" cy="987.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1090.1" cy="1036.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1058.6" cy="1083.9" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="1020.2" cy="1129.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="992.4" cy="1030.7" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="900.0" cy="1074.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="794.1" cy="1097.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="801.4" cy="1029.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="756.8" cy="1053.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="708.0" cy="1072.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="655.4" cy="1086.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="667.5" cy="977.7" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="617.8" cy="986.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="565.4" cy="989.9" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="511.0" cy="987.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="555.7" cy="887.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="587.4" cy="919.3" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="542.3" cy="922.9" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="495.7" cy="922.3" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="447.8" cy="917.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="512.5" cy="832.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="467.9" cy="824.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="422.8" cy="812.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="377.7" cy="795.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="461.2" cy="729.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="419.8" cy="710.8" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="379.1" cy="688.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="453.1" cy="703.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="405.9" cy="644.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="367.0" cy="575.0" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="338.5" cy="495.9" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="453.1" cy="446.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="445.6" cy="476.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="425.9" cy="419.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="413.4" cy="357.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="409.0" cy="291.5" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="523.4" cy="302.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="528.2" cy="242.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="541.7" cy="180.4" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="578.4" cy="239.1" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="616.8" cy="164.2" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="671.2" cy="93.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g>
+<circle cx="741.3" cy="30.6" r="5.2" fill="#dbeafe" fill-opacity="0.92" stroke="#60a5fa" stroke-width="2.2"/>
+</g>
+<g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" text-anchor="middle">
+<text x="900.0" y="623.0" font-size="22" font-weight="800" fill="#f8fafc" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">README.md</text>
+<text x="900.0" y="402.0" font-size="15" font-weight="800" fill="#e0f2fe" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">INDEX.md</text>
+<text x="900.0" y="336.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🚀 Start Here</text>
+<text x="1035.0" y="372.2" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🪪 Identity &amp; Active Directory</text>
+<text x="1133.8" y="471.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">📚 Labs, Lists &amp; Communities</text>
+<text x="1170.0" y="606.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🏭 Platforms &amp; Targets</text>
+<text x="1133.8" y="741.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">☁️ Cloud</text>
+<text x="1035.0" y="839.8" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🔎 Recon, Network &amp; Wireless</text>
+<text x="900.0" y="876.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🗂️ More Resources</text>
+<text x="765.0" y="839.8" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🧨 Payloads, Evasion &amp; C2</text>
+<text x="666.2" y="741.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🕸️ Web, API &amp; Services</text>
+<text x="630.0" y="606.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🚪 Movement &amp; Post Exploitation</text>
+<text x="666.2" y="471.0" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🧪 Reverse Engineering &amp; Research</text>
+<text x="765.0" y="372.2" font-size="13" font-weight="800" fill="#fde68a" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">🚀 Privilege Escalation</text>
+<text x="789.5" y="145.3" font-size="11.8" font-weight="700" fill="#e2e8f0" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">ai-red-teaming.md</text>
+<text x="860.1" y="99.6" font-size="11.8" font-weight="700" fill="#e2e8f0" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">fuzzing.md</text>
+<text x="942.6" y="65.7" font-size="11.8" font-weight="700" fill="#e2e8f0" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">methodology.md</text>
+<text x="1034.8" y="46.3" font-size="11.8" font-weight="700" fill="#e2e8f0" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">repo-map.md</text>
+<text x="1030.1" y="144.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">active-directory-audit-and-exploit-…</text>
+<text x="1114.2" y="140.3" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">ad-lab-environment.md</text>
+<text x="1202.5" y="152.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">persistence-on-windows.md</text>
+<text x="1292.1" y="181.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">windows-active-directory-pentest.md</text>
+<text x="1212.6" y="246.7" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">android-nethunter.md</text>
+<text x="1248.7" y="234.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">android.md</text>
+<text x="1286.1" y="223.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">anonymous-tor-projects.md</text>
+<text x="1324.7" y="215.3" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">apt-malware-emulation-defense-check.md</text>
+<text x="1259.3" y="295.8" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">defender-guides-tools-incident-resp…</text>
+<text x="1296.9" y="288.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">go.md</text>
+<text x="1335.4" y="283.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">linux-macosx-specific.md</text>
+<text x="1374.8" y="281.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">misc.md</text>
+<text x="1298.4" y="351.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">nim.md</text>
+<text x="1336.6" y="349.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">oscp-lists-tools-help.md</text>
+<text x="1375.5" y="350.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">other-tool-lists-cheat-sheets.md</text>
+<text x="1414.8" y="353.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">physical-security-hid-eth-emulator.md</text>
+<text x="1329.0" y="411.7" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">raspberri-pi-exploitation.md</text>
+<text x="1367.1" y="415.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">resource.md</text>
+<text x="1405.4" y="421.8" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">rust.md</text>
+<text x="1443.9" y="430.7" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">social-engeneering.md</text>
+<text x="1350.5" y="475.9" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">vba.md</text>
+<text x="1387.7" y="485.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">wordlists-wordlist-generators.md</text>
+<text x="1342.8" y="449.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">apache-tomcat-exploitation.md</text>
+<text x="1380.4" y="456.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">aspx-webshells.md</text>
+<text x="1418.1" y="465.8" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">big-ip-exploitation.md</text>
+<text x="1455.6" y="478.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">citrix-netscaler-pwn.md</text>
+<text x="1358.8" y="515.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">elasticsearch-kibana-exploitation.md</text>
+<text x="1394.9" y="527.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">industrial-control-systems.md</text>
+<text x="1430.8" y="542.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">jenkins.md</text>
+<text x="1466.2" y="560.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">jmx-exploitation.md</text>
+<text x="1364.9" y="582.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">json-web-token-analysis-exploitatio…</text>
+<text x="1398.9" y="600.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">jsp-webshells.md</text>
+<text x="1432.2" y="620.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">lfi-exploitation.md</text>
+<text x="1464.6" y="642.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">mikrotik-pwn.md</text>
+<text x="1361.2" y="650.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">php-exploits.md</text>
+<text x="1392.3" y="672.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">php-webshells.md</text>
+<text x="1422.3" y="697.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">redis-exploitation.md</text>
+<text x="1451.1" y="724.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">rmi-attacks.md</text>
+<text x="1347.7" y="716.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">ssrf-exploitation.md</text>
+<text x="1375.2" y="743.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">xxe.md</text>
+<text x="1346.4" y="721.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">azure-cloud-tools.md</text>
+<text x="1350.7" y="805.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">azure-red-team-master-and-cheat-she…</text>
+<text x="1338.8" y="893.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">cloud-attack-tools.md</text>
+<text x="1309.6" y="983.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">docker-exploitation.md</text>
+<text x="1244.3" y="903.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">bluetooth-low-energy.md</text>
+<text x="1238.3" y="957.8" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">external-penetration-testing.md</text>
+<text x="1225.3" y="1013.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">nat-slipstreaming.md</text>
+<text x="1205.0" y="1069.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">network-access-control-bypass.md</text>
+<text x="1114.4" y="1003.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">network-attacks.md</text>
+<text x="1090.1" y="1052.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">network-service-level-vulnerability…</text>
+<text x="1058.6" y="1099.9" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">wifi-tools.md</text>
+<text x="1020.2" y="1145.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">wireless-radio-exploitation.md</text>
+<text x="992.4" y="1046.7" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">bypass-spf-dkim-dmarc.md</text>
+<text x="900.0" y="1090.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">mondodb-redis-couchdb-exploitation.md</text>
+<text x="794.1" y="1113.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">scanner-exploitation-frameworks-aut…</text>
+<text x="801.4" y="1045.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">cobalt-strike-stuff.md</text>
+<text x="756.8" y="1069.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">command-and-control-frameworks.md</text>
+<text x="708.0" y="1088.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">edr-evasion-logging-evasion.md</text>
+<text x="655.4" y="1102.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">loader-packer-injectors.md</text>
+<text x="667.5" y="993.7" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">obfuscation.md</text>
+<text x="617.8" y="1002.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">payload-generation-av-evasion-malwa…</text>
+<text x="565.4" y="1005.9" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">red-team-infrastructure-setup.md</text>
+<text x="511.0" y="1003.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">shellcode-injection.md</text>
+<text x="555.7" y="903.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">useful-binary-modification-tools.md</text>
+<text x="587.4" y="935.3" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">crawler.md</text>
+<text x="542.3" y="938.9" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">file-directory-parameter-discovery.md</text>
+<text x="495.7" y="938.3" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">framework-discovery.md</text>
+<text x="447.8" y="933.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">framework-scanner-exploitation.md</text>
+<text x="512.5" y="848.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">rest-api-audit.md</text>
+<text x="467.9" y="840.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">saml-login.md</text>
+<text x="422.8" y="828.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">specific-service-scanning-exploitat…</text>
+<text x="377.7" y="811.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">swagger-file-api-attack.md</text>
+<text x="461.2" y="745.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">web-application-pentest.md</text>
+<text x="419.8" y="726.8" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">web-exploitation-tools.md</text>
+<text x="379.1" y="704.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">web-vulnerability-scanner-burp-plug…</text>
+<text x="453.1" y="719.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">exfiltration.md</text>
+<text x="405.9" y="660.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">lateral-movement.md</text>
+<text x="367.0" y="591.0" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">pivot.md</text>
+<text x="338.5" y="511.9" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">post-exploitation.md</text>
+<text x="453.1" y="462.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">wrapper-for-various-tools.md</text>
+<text x="445.6" y="492.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">exploit-search.md</text>
+<text x="425.9" y="435.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">forensics.md</text>
+<text x="413.4" y="373.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">hash-crack-decryption.md</text>
+<text x="409.0" y="307.5" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">hash-crack-lookup.md</text>
+<text x="523.4" y="318.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">red-team-siem.md</text>
+<text x="528.2" y="258.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">reverse-engineering-decompiler.md</text>
+<text x="541.7" y="196.4" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">source-code-binary-analysis.md</text>
+<text x="578.4" y="255.1" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">linux-privilege-escalation-audit.md</text>
+<text x="616.8" y="180.2" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">t3-enumeration.md</text>
+<text x="671.2" y="109.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">windows-privilege-abuse-privilege-e…</text>
+<text x="741.3" y="46.6" font-size="9.4" font-weight="600" fill="#cbd5e1" paint-order="stroke" stroke="#020617" stroke-width="4" stroke-linejoin="round">windows-privilege-escalation-audit.md</text>
+</g>
+<g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#cbd5e1">
+<text x="56" y="62" font-size="28" font-weight="800" fill="#e0f2fe">Repository Graph</text>
+<text x="56" y="90" fill="#94a3b8">README → Index → Categories → Files</text>
+<circle cx="66" cy="126" r="6" fill="#38bdf8"/>
+<text x="84" y="131" fill="#cbd5e1">README.md</text>
+<circle cx="66" cy="150" r="6" fill="#f59e0b"/>
+<text x="84" y="155" fill="#cbd5e1">Category</text>
+<circle cx="66" cy="174" r="6" fill="#84cc16"/>
+<text x="84" y="179" fill="#cbd5e1">Resource</text>
+<circle cx="66" cy="198" r="6" fill="#60a5fa"/>
+<text x="84" y="203" fill="#cbd5e1">Topic file</text>
+</g>
+</svg>

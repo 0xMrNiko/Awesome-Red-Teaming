@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/red-team-knowledge-web.png" alt="Awesome Red Teaming knowledge graph" width="72%">
+  <img src="assets/repository-graph.svg" alt="Obsidian-style repository graph" width="100%">
 </p>
 
 <h1 align="center">Awesome Red Teaming</h1>
