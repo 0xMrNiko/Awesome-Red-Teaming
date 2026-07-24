@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://x.com/_MrNiko">X: @_MrNiko</a> ·
   <a href="docs/INDEX.md">Table of Contents</a> ·
   <a href="docs/resources/methodology.md">Methodology</a> ·
   <a href="docs/resources/ai-red-teaming.md">AI Red Teaming</a> ·
