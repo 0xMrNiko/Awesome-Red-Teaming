@@ -1,0 +1,88 @@
+# EDR Evasion - Logging Evasion
+
+[← Home](../../README.md) · [Topic index](../INDEX.md)
+
+> Imported from the original single-file README and kept as a focused topic page.
+
+https://github.com/CCob/SharpBlock - A method of bypassing EDR's active projection DLL's by preventing entry point execution
+
+https://github.com/bats3c/Ghost-In-The-Logs - Evade sysmon and windows event logging
+
+https://github.com/am0nsec/SharpHellsGate - C# Implementation of the Hell's Gate VX Technique
+
+https://github.com/am0nsec/HellsGate - Original C Implementation of the Hell's Gate VX Technique
+
+https://github.com/3gstudent/Windows-EventLog-Bypass - C++ Version of Invoke-Phantom
+
+https://github.com/jfmaes/SharpNukeEventLog - C# version of Invoke-Phantom
+
+https://github.com/Soledge/BlockEtw - .Net Assembly to block ETW telemetry in current process
+
+https://github.com/ionescu007/faxhell - A Bind Shell Using the Fax Service and a DLL Hijack
+
+
+https://github.com/bats3c/EvtMute - This is a tool that allows you to offensively use YARA to apply a filter to the events being reported by windows event logging.
+
+https://github.com/GetRektBoy724/TripleS - Extracting Syscall Stub, Modernized
+
+https://github.com/call-042PE/UCantSeeM3 - Hiding your process in ProcessHacker,Task Manager,etc by patching NtQuerySystemInformation
+
+https://github.com/bats3c/DarkLoadLibrary - LoadLibrary for offensive operations
+
+https://github.com/moloch--/DarkLoadLibrary - Same but with LLVM support
+
+
+https://github.com/Yaxser/Backstab - A tool to kill antimalware protected processes
+
+https://github.com/RedCursorSecurityConsulting/PPLKiller - Tool to bypass LSA Protection (aka Protected Process Light)
+
+https://github.com/passthehashbrowns/suspendedunhook - get NTDLL copy from suspended process
+
+https://github.com/LloydLabs/delete-self-poc - A way to delete a locked file, or current running executable, on disk.
+
+https://github.com/klezVirus/SharpSelfDelete - C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs
+
+https://github.com/jxy-s/herpaderping - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+
+https://github.com/bohops/UltimateWDACBypassList - A centralized resource for previously documented WDAC bypass techniques
+
+https://github.com/mgeeky/ShellcodeFluctuation - An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents
+
+https://github.com/mgeeky/ThreadStackSpoofer - Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.
+
+https://github.com/SolomonSklash/SleepyCrypt - A shellcode function to encrypt a running process image when sleeping.
+
+https://github.com/aaaddress1/PR0CESS - some gadgets about windows process and ready to use :)
+
+https://github.com/JLospinoso/gargoyle - A memory scanning evasion technique
+
+https://github.com/passthehashbrowns/hiding-your-syscalls - Some source code to demonstrate avoiding certain direct syscall detections by locating and JMPing to a legitimate syscall instruction within NTDLL.
+
+https://github.com/hasherezade/module_overloading - A more stealthy variant of "DLL hollowing"
+
+https://github.com/forrest-orr/phantom-dll-hollower-poc - Phantom DLL hollowing PoC
+
+https://github.com/hasherezade/transacted_hollowing - Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging
+
+https://github.com/GetRektBoy724/SharpUnhooker - C# Based Universal API Unhooker
+
+https://github.com/mgeeky/UnhookMe - UnhookMe is an universal Windows API resolver & unhooker addressing problem of invoking unmonitored system calls from within of your Red Teams malware
+
+https://github.com/aaaddress1/wowInjector - PoC: Exploit 32-bit Thread Snapshot of WOW64 to Take Over $RIP & Inject & Bypass Antivirus HIPS (HITB 2021)
+
+https://github.com/RedSection/OffensivePH - OffensivePH - use old Process Hacker driver to bypass several user-mode access controls
+
+https://github.com/optiv/Dent - A framework for creating COM-based bypasses utilizing vulnerabilities in Microsoft's WDAPT sensors.
+
+
+https://github.com/jackullrich/universal-syscall-64 - Resolve syscall numbers at runtime for all Windows versions.
+
+https://github.com/br-sn/CheekyBlinder - Enumerating and removing kernel callbacks using signed vulnerable drivers
+
+https://github.com/jthuraisamy/TelemetrySourcerer - Enumerate and disable common sources of telemetry used by AV/EDR.
+
+https://github.com/TheWover/DInvoke - Dynamically invoke arbitrary unmanaged code from managed code without PInvoke.
+
+https://github.com/fashionproof/CheckSafeBoot - I used this to see if an EDR is running in Safe Mode
+
+https://github.com/asaurusrex/DoppelGate - DoppelGate relies on reading ntdll on disk to grab syscall stubs, and patches these syscall stubs into desired functions to bypass Userland Hooking.

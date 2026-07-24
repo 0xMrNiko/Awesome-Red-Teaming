@@ -1,0 +1,13 @@
+# Example/template endpoints in imported cheat sheets.
+^https://login\.microsoftonline\.com/.*
+^https://management\.azure\.com/subscriptions\?api-version=.*
+^https://management\.azure\.com/subscriptions/.*
+^https://management\.azure\.com/&api-version=.*
+^https://management\.azure\.com&apiversion=.*
+^https://graph\.microsoft\.com.*
+^https://vault\.azure\.net&apiversion=.*
+^https://s15events\.azure-automation\.net/.*
+^http://192\.168\.50\.90.*
+^http://127\.0\.0\.1.*
+^http://localhost.*
+^https?://.*<.*
