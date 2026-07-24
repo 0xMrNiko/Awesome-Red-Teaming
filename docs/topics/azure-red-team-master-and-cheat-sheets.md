@@ -2,7 +2,32 @@
 
 [← Home](../../README.md) · [Topic index](../INDEX.md)
 
-> Imported from the original single-file README and kept as a focused topic page.
+## Contents
+
+- [PreReq Requirements and free training](#prereq-requirements-and-free-training)
+- [Current Bug Bounties](#current-bug-bounties)
+- [Commando VM](#commando-vm)
+- [Summary](#summary)
+- [Azure Recon Tools](#azure-recon-tools)
+- [Enumeration](#enumeration)
+- [Enumerate valid emails](#enumerate-valid-emails)
+- [Enumerate Azure Subdomains](#enumerate-azure-subdomains)
+- [Enumerate tenant with Azure AD Powershell](#enumerate-tenant-with-azure-ad-powershell)
+- [Enumerate tenant with Az Powershell](#enumerate-tenant-with-az-powershell)
+- [Enumerate tenant with az cli](#enumerate-tenant-with-az-cli)
+- [Enumerate manually](#enumerate-manually)
+- [Enumeration methodology](#enumeration-methodology)
+- [Phishing with Evilginx2](#phishing-with-evilginx2)
+- [Illicit Consent Grant](#illicit-consent-grant)
+- [Register Application](#register-application)
+- [Configure Application](#configure-application)
+- [Setup 365-Stealer](#setup-365-stealer)
+- [Token from Managed Identity](#token-from-managed-identity)
+- [Azure API via Powershell](#azure-api-via-powershell)
+- [Azure API via Python Version](#azure-api-via-python-version)
+- [Get Tokens](#get-tokens)
+- [Use Tokens](#use-tokens)
+- [Refresh Tokens](#refresh-tokens)
 
 # Azure Active Directory
 
@@ -288,13 +313,13 @@ PS> az keyvault list
 
 * Federation with Azure AD or O365
     ```powershell
-    https://login.microsoftonline.com/getuserrealm.srf?login=<USER>@<DOMAIN>&xml=1
+- [login.microsoftonline.com/getuserrealm.srf?login=<USER>@<DOMAIN>&xml=1](https://login.microsoftonline.com/getuserrealm.srf?login=<USER>@<DOMAIN>&xml=1)
     https://login.microsoftonline.com/getuserrealm.srf?login=root@<TENANT NAME>.onmicrosoft.com&xml=1
     ```
 * Get the Tenant ID
     ```powershell
-    https://login.microsoftonline.com/<DOMAIN>/.well-known/openid-configuration
-    https://login.microsoftonline.com/<TENANT NAME>.onmicrosoft.com/.well-known/openid-configuration
+- [login.microsoftonline.com/<DOMAIN>/.well-known](https://login.microsoftonline.com/<DOMAIN>/.well-known/openid-configuration)
+- [login.microsoftonline.com](https://login.microsoftonline.com/<TENANT) - NAME>.onmicrosoft.com/.well-known/openid-configuration
     ```
 
 ## Enumeration methodology

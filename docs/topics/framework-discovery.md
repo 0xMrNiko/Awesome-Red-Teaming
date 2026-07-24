@@ -2,12 +2,7 @@
 
 [← Home](../../README.md) · [Topic index](../INDEX.md)
 
-> Imported from the original single-file README and kept as a focused topic page.
-
-https://github.com/Tuhinshubhra/CMSeeK
-
-https://github.com/Dionach/CMSmap - Wordpress, Joomla, Drupal Scanner
-
-https://github.com/wpscanteam/wpscan
-
-https://github.com/Ekultek/WhatWaf
+- [Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)
+- [Dionach/CMSmap](https://github.com/Dionach/CMSmap) - Wordpress, Joomla, Drupal Scanner
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan)
+- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf)

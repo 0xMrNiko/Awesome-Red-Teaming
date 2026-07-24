@@ -1,4 +1,3 @@
-# Example/template endpoints in imported cheat sheets.
 ^https://login\.microsoftonline\.com/.*
 ^https://management\.azure\.com/subscriptions\?api-version=.*
 ^https://management\.azure\.com/subscriptions/.*

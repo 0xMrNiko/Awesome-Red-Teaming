@@ -2,8 +2,5 @@
 
 [← Home](../../README.md) · [Topic index](../INDEX.md)
 
-> Imported from the original single-file README and kept as a focused topic page.
-
-https://github.com/Kudaes/DInvoke_rs - Dynamically invoke arbitrary unmanaged code.
-
-https://github.com/trickster0/OffensiveRust - Rust Weaponization for Red Team Engagements.
+- [Kudaes/DInvoke_rs](https://github.com/Kudaes/DInvoke_rs) - Dynamically invoke arbitrary unmanaged code.
+- [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.

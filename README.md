@@ -1,57 +1,79 @@
 <p align="center">
-  <img src="assets/red-team-knowledge-web.png" alt="Awesome Red Teaming knowledge web" width="100%">
+  <img src="assets/red-team-knowledge-web.png" alt="Awesome Red Teaming knowledge graph" width="72%">
 </p>
 
-# Awesome Red Teaming
+<h1 align="center">Awesome Red Teaming</h1>
 
-A curated red-team knowledge base for operators, security researchers, and defenders who need fast navigation across tooling, tradecraft, cloud, identity, web, payload research, AI red teaming, and fuzzing.
+<p align="center">
+  <b>A curated map for red-team operators, security researchers, and defenders.</b><br>
+  Identity, web, cloud, payload research, C2, AI red teaming, fuzzing, reverse engineering, and practical labs.
+</p>
 
-> Use only in systems and engagements where you have explicit authorization. The goal of this repository is security testing, research, and defensive validation.
+<p align="center">
+  <a href="docs/INDEX.md">Table of Contents</a> ·
+  <a href="docs/resources/methodology.md">Methodology</a> ·
+  <a href="docs/resources/ai-red-teaming.md">AI Red Teaming</a> ·
+  <a href="docs/resources/fuzzing.md">Fuzzing</a> ·
+  <a href="docs/graphs/repo-map.md">Graph Map</a>
+</p>
 
-## Quick navigation
+---
 
-- [Full topic index](docs/INDEX.md)
-- [Repository spider-web map](docs/graphs/repo-map.md)
-- [AI Red Teaming](docs/resources/ai-red-teaming.md)
-- [Fuzzing](docs/resources/fuzzing.md)
-- [Red Teaming Methodology](docs/resources/methodology.md)
+## Table of Contents
 
-## Core tracks
+- ✨ [Features](#features)
+- 📜 [Legal Note](#legal-note)
+- 🚀 [Get Started](#get-started)
+- 🔐 [Core Red Team Tracks](#core-red-team-tracks)
+- 🧠 [AI Red Teaming](docs/resources/ai-red-teaming.md)
+- 🧬 [Fuzzing](docs/resources/fuzzing.md)
+- 🕸️ [Repository Graph Map](docs/graphs/repo-map.md)
+- 📚 [Full Resource Index](docs/INDEX.md)
+- 🤝 [Contributing](#contributing)
 
-| Track | Start here |
+## Features
+
+- Focused topic pages for fast browsing.
+- Fast navigation for operators who know what they need.
+- Modern sections for AI red teaming and fuzzing.
+- Link-check workflow to catch dead resources.
+- Clean visual front page for GitHub dark mode.
+
+## Legal Note
+
+Use these resources only where you have explicit authorization. Keep scope, written permission, evidence handling, and cleanup requirements clear before testing.
+
+## Get Started
+
+1. Start with the [methodology page](docs/resources/methodology.md) if you are planning an engagement.
+2. Jump into the track closest to your objective.
+3. Use the [full index](docs/INDEX.md) when you need a specific tool category.
+4. Add good resources with a short reason why they belong.
+
+## Core Red Team Tracks
+
+| Area | Primary resources |
 | --- | --- |
-| Identity and Active Directory | [Windows Active Directory Pentest](docs/topics/windows-active-directory-pentest.md), [Active Directory Audit and exploit tools](docs/topics/active-directory-audit-and-exploit-tools.md) |
-| Lateral movement and post-exploitation | [Lateral Movement](docs/topics/lateral-movement.md), [POST Exploitation](docs/topics/post-exploitation.md) |
-| Web and API testing | [Web Application Pentest](docs/topics/web-application-pentest.md), [REST API Audit](docs/topics/rest-api-audit.md) |
-| Privilege escalation | [Windows Privilege Escalation / Audit](docs/topics/windows-privilege-escalation-audit.md), [Linux Privilege Escalation / Audit](docs/topics/linux-privilege-escalation-audit.md) |
-| Payloads and evasion | [Payload Generation / AV-Evasion / Malware Creation](docs/topics/payload-generation-av-evasion-malware-creation.md), [EDR Evasion - Logging Evasion](docs/topics/edr-evasion-logging-evasion.md) |
-| Cloud | [Azure Red Team Master and Cheat Sheets](docs/topics/azure-red-team-master-and-cheat-sheets.md), [Cloud attack tools](docs/topics/cloud-attack-tools.md) |
-| Command and control | [Command & Control Frameworks](docs/topics/command-and-control-frameworks.md), [Cobalt Strike Stuff](docs/topics/cobalt-strike-stuff.md) |
-| Recon and external testing | [External Penetration Testing](docs/topics/external-penetration-testing.md), [Domain Finding / Subdomain Enumeration](docs/topics/external-penetration-testing.md#domain-finding--subdomain-enumeration) |
-| AI systems | [AI Red Teaming](docs/resources/ai-red-teaming.md) |
-| Vulnerability research | [Fuzzing](docs/resources/fuzzing.md), [Source Code / Binary Analysis](docs/topics/source-code-binary-analysis.md) |
-
-## What changed
-
-- Split the old single giant README into focused topic files under `docs/topics/`.
-- Added a searchable [topic index](docs/INDEX.md).
-- Added modern AI red teaming and fuzzing sections.
-- Added a visual knowledge-web banner and Mermaid repository map.
-- Kept original resource links in topic pages so existing content is preserved while navigation is cleaner.
+| 🪪 Identity & Active Directory | [Windows AD Pentest](docs/topics/windows-active-directory-pentest.md), [AD Audit & Exploit Tools](docs/topics/active-directory-audit-and-exploit-tools.md) |
+| 🚪 Lateral Movement | [Lateral Movement](docs/topics/lateral-movement.md), [Post Exploitation](docs/topics/post-exploitation.md) |
+| 🕸️ Web & API | [Web Application Pentest](docs/topics/web-application-pentest.md), [REST API Audit](docs/topics/rest-api-audit.md) |
+| 🚀 Privilege Escalation | [Windows PrivEsc](docs/topics/windows-privilege-escalation-audit.md), [Linux PrivEsc](docs/topics/linux-privilege-escalation-audit.md) |
+| 🧨 Payloads & Evasion | [Payloads / AV Evasion](docs/topics/payload-generation-av-evasion-malware-creation.md), [EDR Evasion](docs/topics/edr-evasion-logging-evasion.md) |
+| ☁️ Cloud | [Azure Red Team Master](docs/topics/azure-red-team-master-and-cheat-sheets.md), [Cloud Attack Tools](docs/topics/cloud-attack-tools.md) |
+| 📡 Command & Control | [C2 Frameworks](docs/topics/command-and-control-frameworks.md), [Cobalt Strike](docs/topics/cobalt-strike-stuff.md) |
+| 🔎 Recon | [External Pentest](docs/topics/external-penetration-testing.md), [Network Scanning](docs/topics/network-service-level-vulnerability-scanner.md) |
+| 🧠 AI Systems | [AI Red Teaming](docs/resources/ai-red-teaming.md) |
+| 🧬 Vulnerability Research | [Fuzzing](docs/resources/fuzzing.md), [Source/Binary Analysis](docs/topics/source-code-binary-analysis.md) |
 
 ## Contributing
 
-Pull requests are welcome. Keep entries concise and useful:
+Keep entries clean and useful:
 
 ```markdown
-- [Project name](PROJECT_URL) - one-line reason it belongs here.
+- [Project name](PROJECT_URL) - short reason it belongs here.
 ```
 
-Preferred additions:
-
-- actively maintained tools, papers, labs, and playbooks;
-- resources with clear defensive, research, or authorized-testing value;
-- links that include a short description and fit an existing topic page.
+Good additions are active tools, practical labs, research writeups, defensive validation references, and well-maintained cheat sheets.
 
 ## License
 

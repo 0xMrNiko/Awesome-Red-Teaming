@@ -2,13 +2,9 @@
 
 [← Home](../../README.md) · [Topic index](../INDEX.md)
 
-> Imported from the original single-file README and kept as a focused topic page.
-
-https://github.com/hasherezade/exe_to_dll
-
-https://github.com/hasherezade/dll_to_exe
-
-https://github.com/hasherezade/pe_to_shellcode
+- [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll)
+- [hasherezade/dll_to_exe](https://github.com/hasherezade/dll_to_exe)
+- [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)
 
 ## Android
-https://github.com/sensepost/kwetza
+- [sensepost/kwetza](https://github.com/sensepost/kwetza)

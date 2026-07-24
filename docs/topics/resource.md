@@ -2,8 +2,6 @@
 
 [← Home](../../README.md) · [Topic index](../INDEX.md)
 
-> Imported from the original single-file README and kept as a focused topic page.
-
 1. [Cobalt Strike and Tradecraft](https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/) 
 2. [Hells Gate Win SysCall](https://github.com/boku7/HellsGatePPID) 
 3. [Rapidly Search and Hunt through Windows Event Logs](https://github.com/countercept/chainsaw) 
