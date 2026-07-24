@@ -5,6 +5,10 @@
 <h1 align="center">Awesome Red Teaming</h1>
 
 <p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
+
+<p align="center">
   <b>A curated map for red-team operators, security researchers, and defenders.</b><br>
   Identity, web, cloud, payload research, C2, AI red teaming, fuzzing, reverse engineering, and practical labs.
 </p>
@@ -78,7 +82,6 @@ Good additions are active tools, practical labs, research writeups, defensive va
 ## Contact Me
 
 <p align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://x.com/_MrNiko"><img src="https://img.shields.io/twitter/follow/_MrNiko?style=social&label=Follow%20%40_MrNiko" alt="Follow @_MrNiko on X"></a>
 </p>
 
