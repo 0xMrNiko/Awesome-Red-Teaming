@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/_MrNiko">X: @_MrNiko</a> ·
   <a href="docs/INDEX.md">Table of Contents</a> ·
   <a href="docs/resources/methodology.md">Methodology</a> ·
   <a href="docs/resources/ai-red-teaming.md">AI Red Teaming</a> ·
@@ -75,6 +74,10 @@ Keep entries clean and useful:
 ```
 
 Good additions are active tools, practical labs, research writeups, defensive validation references, and well-maintained cheat sheets.
+
+## Contact Me
+
+- X: [_MrNiko](https://x.com/_MrNiko)
 
 ## License
 
