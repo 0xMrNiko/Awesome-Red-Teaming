@@ -22,6 +22,10 @@ Use this repository as a map, not as a checklist. Good red-team work starts with
 - Do not collect sensitive data when proof can be made with metadata, counts, or synthetic canaries.
 - Keep cleanup steps explicit and reproducible.
 
+## Engagement tooling
+
+- [ROE-Lint](https://github.com/r00tmancer/roelint) - Imports Rules of Engagement documents into cited, reviewable policy and blocks out-of-scope commands and playbooks before execution.
+
 ## Repository paths
 
 - Classic infrastructure and domain content: `docs/topics/`
