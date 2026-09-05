@@ -21,6 +21,7 @@ Fuzzing belongs in a modern red-team and vulnerability-research toolkit because 
 - [atheris](https://github.com/google/atheris) - coverage-guided Python fuzzing.
 - [jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage-guided fuzzing for JavaScript.
 - [boofuzz](https://github.com/jtpereyda/boofuzz) - network protocol fuzzing framework.
+- [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - for fuzzing phishing and malicious landing pages.
 
 ## Supporting tooling
 
