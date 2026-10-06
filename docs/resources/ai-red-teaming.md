@@ -17,6 +17,7 @@ AI red teaming needs a different lens than classic infrastructure testing: model
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner and probing framework.
 - [PyRIT](https://github.com/Azure/PyRIT) - automation framework for generative AI red teaming.
 - [Counterfit](https://github.com/Azure/counterfit) - command-line tool for assessing AI systems.
+- [ARES](https://github.com/IBM/ares) -  An orchestration framework that lets you plug in your own attacks, evaluators, and guardrails to test LLMs.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - prompt and model evaluation, red-team test cases, and CI workflows.
 - [Giskard](https://github.com/Giskard-AI/giskard) - testing framework for ML and LLM applications.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - model evaluation framework from the UK AI Safety Institute.
