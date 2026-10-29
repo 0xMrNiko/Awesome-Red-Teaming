@@ -26,6 +26,7 @@
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
 - [Cr4sh/MicroBackdoor](https://github.com/Cr4sh/MicroBackdoor) - Small and convenient C2 tool for Windows targets
 - [cyberark/kubesploit](https://github.com/cyberark/kubesploit) - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
+- [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) - Commercial Windows C2 with an integrated kernel agent and exploit backends for kernel-level operations.
 
 ## Mythic Agents
 
