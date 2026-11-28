@@ -58,7 +58,7 @@ Use these resources only where you have explicit authorization. Keep scope, writ
 
 | Area | Primary resources |
 | --- | --- |
-| [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) | 159 SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 MCP tools |
+| [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) | 159 SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 MCP tools |
 | Identity & Active Directory | [Windows AD Pentest](docs/topics/windows-active-directory-pentest.md), [AD Audit & Exploit Tools](docs/topics/active-directory-audit-and-exploit-tools.md) |
 | Lateral Movement | [Lateral Movement](docs/topics/lateral-movement.md), [Post Exploitation](docs/topics/post-exploitation.md) |
 | Web & API | [Web Application Pentest](docs/topics/web-application-pentest.md), [REST API Audit](docs/topics/rest-api-audit.md) |
